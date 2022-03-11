@@ -1,3 +1,15 @@
+如果是手机的话，使用相机，扫描这个二维码：
+
+![](https://1000copy.github.io/github-page-pwa/img/barcode.gif)
+
+在浏览器内，点击分享-添加到主屏幕。即可在桌面或者主屏幕上已经安装好的图标。点击图标，进入PWA。
+
+如果是一般桌面浏览器的话，访问连接
+
+[1000copy.github.io](https://1000copy.github.io/github-page-pwa/)
+
+在地址栏右侧，可以看到一个按钮，移动上去可以看到Tip，内容为“安装此应用”字样，点击后，可以在桌面上看到一个新的图标。
+
 # Github page as a PWA template
 
 This is a bare-bones example on how to turn an `index.html` document on GitHub and hosted as a GitHub Page into an installable Progressive Web App with offline caching.
